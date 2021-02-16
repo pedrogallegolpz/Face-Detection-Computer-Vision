@@ -5,5 +5,5 @@ Realizado junto a [Pedro Gallego](https://github.com/pedrogallegolpz) se trata d
 imágenes con la base de datos [WIDERFACE](http://shuoyang1213.me/WIDERFACE/).
 
 <p align="center">
-<img src="https://github.com/victory06/IA/blob/master/doc/P2.png" height="400" width="500" >
+<img src="https://github.com/victory06/proyecto-VC/img.png" height="400" width="500" >
 </p>
