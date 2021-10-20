@@ -1,8 +1,6 @@
-# proyecto-VC
-Proyecto final de la asignatura Visión por Computador
+# Computer Vision Project
 
-Realizado junto a [Pedro Gallego](https://github.com/pedrogallegolpz) se trata de entrenar una red YOLOv3 preentrenada con la base de datos COCO para detectar caras en
-imágenes con la base de datos [WIDERFACE](http://shuoyang1213.me/WIDERFACE/).
+Project with [Victor Arroyo](https://github.com/victory06) that consists in detection faces by a YOLOv3 net pretrained with COCO. The net has been trained with [WIDERFACE](http://shuoyang1213.me/WIDERFACE/) database.
 
 <p align="center">
 <img src="https://github.com/victory06/proyecto-VC/blob/master/img.png" height="400" width="500" >
